@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Строки экрана «Chats» раздела exteraless. -->
 <resources>
     <string name="OEChatsStickerTime">Godzina na naklejkach</string>
     <string name="OEChatsStickerTimeSide">Z boku</string>
@@ -54,6 +55,9 @@
     <string name="OEChatsReplaceEditedWithIcon">Zastąp „%1$s” ikoną</string>
     <string name="OEChatsShowOnlineStatus">Pokaż wskaźnik dostępności</string>
     <string name="OEChatsHideShareButton">Ukryj boczny przycisk „%1$s”</string>
+    <string name="OEChatsHideGiftButton">Hide Gift Button in Channels</string>
+    <string name="OEChatsHideSearchButton">Hide Search Button in Channels</string>
+    <string name="OEChatsHideCallButton">Hide Call Button</string>
     <string name="OEChatsHideMoneyButton">Ukryj „%1$s” w menu załączników</string>
     <string name="OEChatsShowResultsBeforeVoting">Pokaż wyniki przed głosowaniem</string>
     <string name="OEChatsShowResultsBeforeVotingInfo">Wyniki jawnych ankiet będą widoczne bez oddawania głosu.</string>
@@ -135,6 +139,8 @@
     <string name="OEChatsTrackingFilterFailed">Nie udało się zaktualizować filtra</string>
     <string name="OEChatsHdrPhotos">Zdjęcia HDR</string>
     <string name="OEChatsHdrPhotosInfo">Pokazuj zdjęcia HDR w pełnej jasności. Wyłącz, jeśli zdjęcia wyglądają na ciemne.</string>
+    <string name="SendLockedCustomEmojiAsSticker">Premium Emoji as Stickers</string>
+    <string name="SendLockedCustomEmojiAsStickerInfo">Without Premium, premium emoji are sent as regular stickers. Only WebP and WebM emoji are supported.</string>
     <string name="OEChatsTranslateInSheet">Okno tłumaczenia Telegram</string>
     <string name="OEChatsTranslateInSheetInfo">Tłumaczenie otwiera okno z oficjalnej aplikacji z wyborem dostawcy</string>
     <string name="OEChatsInlineMath">Wyniki obliczeń w polu tekstowym</string>
