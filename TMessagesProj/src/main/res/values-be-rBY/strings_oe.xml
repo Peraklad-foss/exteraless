@@ -58,7 +58,7 @@
     <string name="MainTabsHideCallsSettings">Схаваць укладку \"Званкі\"</string>
     <string name="MainTabsHideProfile">Схаваць укладку \"Профіль\"</string>
     <string name="OEBotWebViewUpdate">Абнавіць WebView</string>
-    <string name="OEProfilerStart">Запусціць прафайлер адмоваў</string>
+    <string name="OEProfilerStart">Запусціць прафайлер адмоў</string>
     <string name="OEProfilerStop">Спыніць прафайлер і адправіць справаздачу</string>
     <string name="OEProfilerStarted">Прафайлер працуе. Выкарыстоўвайце праграму як звычайна, затым спыніце яе тут.</string>
     <string name="OEProfilerShareLast">Адправіць апошнюю справаздачу прафайлера</string>
