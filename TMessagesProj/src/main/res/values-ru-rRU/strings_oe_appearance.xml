@@ -136,11 +136,11 @@
     <string name="OEAppearanceHidingInChats">В чатах</string>
     <string name="OEAppearanceHidingAiPremium">AI и Premium</string>
     <string name="OEKillApp">Закрыть приложение</string>
-    <string name="OEStartupFolder">Startup Folder</string>
-    <string name="OEStartupFolderFirst">First Folder</string>
-    <string name="OEStartupFolderLast">Last Opened</string>
-    <string name="OEStartupFolderOpen">Open at Startup</string>
-    <string name="OEStartupFolderDontOpen">Don\'t Open at Startup</string>
-    <string name="OEStartupFolderSet">**%1$s** will open at startup</string>
-    <string name="OEStartupFolderReset">The first folder will open at startup</string>
+    <string name="OEStartupFolder">Папка запуска</string>
+    <string name="OEStartupFolderFirst">Первая папка</string>
+    <string name="OEStartupFolderLast">Открыто последнее</string>
+    <string name="OEStartupFolderOpen">Открыть при запуске</string>
+    <string name="OEStartupFolderDontOpen">Не открывать при запуске</string>
+    <string name="OEStartupFolderSet">**%1$s** будет открыт при запуске</string>
+    <string name="OEStartupFolderReset">Первая папка будет открыта при запуске</string>
 </resources>
