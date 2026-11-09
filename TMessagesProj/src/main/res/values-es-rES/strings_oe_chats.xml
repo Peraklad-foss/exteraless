@@ -145,8 +145,28 @@
     <string name="OEChatsTranslateInSheetInfo">Translate opens the sheet from the official app with a provider switch</string>
     <string name="OEChatsInlineMath">Inline math results</string>
     <string name="OEChatsInlineMathInfo">Type an expression and “=” to see the result, press Space to insert it.</string>
-    <string name="OEChatsInlineMathCurrency">Currencies via @calcmulabot</string>
-    <string name="OEChatsInlineMathCurrencyInfo">Expressions with currencies like “10 usd to rub =” are sent to @calcmulabot to get the rate.</string>
+    <string name="OEChatsInlineMathCurrency">Otras monedas a través de @calcmulabot</string>
+    <string name="OEChatsInlineMathCurrencyInfo">Las monedas comunes se convierten en este dispositivo. Las expresiones con el resto, como “10 seg a frob =”, se envían a @calcmulabot.</string>
+    <string name="OEInlineTitle">Resultados en línea</string>
+    <string name="OEInlineTitleInfo">Calculador, monedas, unidades y zonas horarias</string>
+    <string name="OEInlineShow">Mostrar resultados</string>
+    <string name="OEInlineFeatures">Características</string>
+    <string name="OEInlineCalculator">Calculador</string>
+    <string name="OEInlineCurrencies">Monedas</string>
+    <string name="OEInlineUnits">Unidades</string>
+    <string name="OEInlineTimeZones">Zonas horarias</string>
+    <string name="OEInlineGrouping">Dígitos del grupo</string>
+    <string name="OEInlineAngle">Anglas en peces, cas, bronceado</string>
+    <string name="OEInlineAngleDegrees">Grados</string>
+    <string name="OEInlineAngleRadians">Radianes</string>
+    <string name="OEInlineMeasure">Sistema de medición</string>
+    <string name="OEInlineMeasureMetric">Métrica</string>
+    <string name="OEInlineMeasureImperial">Imperial</string>
+    <string name="OEInlineTargetCurrency">Moneda por defecto</string>
+    <string name="OEInlineAuto">Auto</string>
+    <string name="OEInlineDocArithmetic">Arithmetic y funciones</string>
+    <string name="OEInlineDocPercent">Porcentajes y acortados</string>
+    <string name="OEInlineTapToCopy">Toca un ejemplo para copiarlo.</string>
     <string name="OEChatsInlineMathAnnouncement">Result: %1$s</string>
     <string name="OELocalPremiumInfo">Premium emoji are sent as links that exteraless and other clients that support this show as the real emoji. Other Premium features work only on this device.</string>
     <string name="OELocalPremiumEmojiHint">You don\'t have **Telegram Premium**, so this emoji is sent as a link: only users of **exteraless** and clients that support this will see it.</string>
