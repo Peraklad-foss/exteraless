@@ -136,11 +136,11 @@
     <string name="OEAppearanceHidingInChats">In Chats</string>
     <string name="OEAppearanceHidingAiPremium">AI and Premium</string>
     <string name="OEKillApp">Close App</string>
-    <string name="OEStartupFolder">Startup Folder</string>
-    <string name="OEStartupFolderFirst">First Folder</string>
-    <string name="OEStartupFolderLast">Last Opened</string>
-    <string name="OEStartupFolderOpen">Open at Startup</string>
-    <string name="OEStartupFolderDontOpen">Don\'t Open at Startup</string>
-    <string name="OEStartupFolderSet">**%1$s** will open at startup</string>
-    <string name="OEStartupFolderReset">The first folder will open at startup</string>
+    <string name="OEStartupFolder">Стартавая тэчка</string>
+    <string name="OEStartupFolderFirst">Першая тэчка</string>
+    <string name="OEStartupFolderLast">Апошняя адкрытая</string>
+    <string name="OEStartupFolderOpen">Адкрыць пры запуску</string>
+    <string name="OEStartupFolderDontOpen">Не адкрываць пры запуску</string>
+    <string name="OEStartupFolderSet">\"%1$s\" будзе адкрыта пры запуску</string>
+    <string name="OEStartupFolderReset">Першая тэчка будзе адкрыта пры запуску</string>
 </resources>
