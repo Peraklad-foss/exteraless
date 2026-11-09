@@ -164,9 +164,9 @@
     <string name="OEInlineMeasureImperial">Имперская</string>
     <string name="OEInlineTargetCurrency">Валюта по умолчанию</string>
     <string name="OEInlineAuto">Авто</string>
-    <string name="OEInlineDocArithmetic">Arithmetic and functions</string>
-    <string name="OEInlineDocPercent">Percentages and shorthands</string>
-    <string name="OEInlineTapToCopy">Tap an example to copy it.</string>
+    <string name="OEInlineDocArithmetic">Арифметика и функции</string>
+    <string name="OEInlineDocPercent">Проценты и короткие сроки</string>
+    <string name="OEInlineTapToCopy">Нажмите на пример, чтобы скопировать его.</string>
     <string name="OEChatsInlineMathAnnouncement">Результат: %1$s</string>
     <string name="OELocalPremiumInfo">Премиум-эмодзи уходят ссылками, которые exteraless и поддерживающие это клиенты показывают как настоящие эмодзи. Остальные функции Premium работают только на этом устройстве.</string>
     <string name="OELocalPremiumEmojiHint">У вас нет **Telegram Premium**, поэтому эмодзи уйдёт ссылкой: увидят его только пользователи **exteraless** и клиентов, поддерживающих это.</string>
