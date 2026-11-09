@@ -145,8 +145,28 @@
     <string name="OEChatsTranslateInSheetInfo">Tłumaczenie otwiera okno z oficjalnej aplikacji z wyborem dostawcy</string>
     <string name="OEChatsInlineMath">Wyniki obliczeń w polu tekstowym</string>
     <string name="OEChatsInlineMathInfo">Wpisz wyrażenie i „=”, aby zobaczyć wynik; spacja go wstawi.</string>
-    <string name="OEChatsInlineMathCurrency">Waluty przez @calcmulabot</string>
-    <string name="OEChatsInlineMathCurrencyInfo">Wyrażenia z walutami, np. „10 usd to rub =”, są wysyłane do @calcmulabot po kurs.</string>
+    <string name="OEChatsInlineMathCurrency">Inne waluty za pośrednictwem @calcmulabot</string>
+    <string name="OEChatsInlineMathCurrencyInfo">Zwykłe waluty są przeliczane na tym urządzeniu. Wyrażenia z resztą, takie jak \"10 sek na porod =\", są wysyłane na @calcmulabot.</string>
+    <string name="OEInlineTitle">Wyniki w linii</string>
+    <string name="OEInlineTitleInfo">Kalkulator, waluty, jednostki i strefy czasowe</string>
+    <string name="OEInlineShow">Pokaż wyniki</string>
+    <string name="OEInlineFeatures">Funkcje</string>
+    <string name="OEInlineCalculator">Kalkulator</string>
+    <string name="OEInlineCurrencies">Waluty</string>
+    <string name="OEInlineUnits">Jednostki</string>
+    <string name="OEInlineTimeZones">Strefy czasowe</string>
+    <string name="OEInlineGrouping">Cyfry grupy</string>
+    <string name="OEInlineAngle">Kąty w piasku, kosmosie, tan</string>
+    <string name="OEInlineAngleDegrees">Stopnie</string>
+    <string name="OEInlineAngleRadians">Radiany</string>
+    <string name="OEInlineMeasure">Układ pomiarowy</string>
+    <string name="OEInlineMeasureMetric">Metryka</string>
+    <string name="OEInlineMeasureImperial">Imperialny</string>
+    <string name="OEInlineTargetCurrency">Domyślna waluta</string>
+    <string name="OEInlineAuto">Auto</string>
+    <string name="OEInlineDocArithmetic">Arytmetyczne i funkcje</string>
+    <string name="OEInlineDocPercent">Procenty i skróty</string>
+    <string name="OEInlineTapToCopy">Dotknij przykładu, aby go skopiować.</string>
     <string name="OEChatsInlineMathAnnouncement">Wynik: %1$s</string>
     <string name="OELocalPremiumInfo">Emoji premium są wysyłane jako linki, które exteraless i inne obsługujące to klienty wyświetlają jako prawdziwe emoji. Pozostałe funkcje Premium działają tylko na tym urządzeniu.</string>
     <string name="OELocalPremiumEmojiHint">Nie masz **Telegram Premium**, więc to emoji zostanie wysłane jako link: zobaczą je tylko użytkownicy **exteraless** i klientów, które to obsługują.</string>
