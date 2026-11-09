@@ -136,4 +136,11 @@
     <string name="OEAppearanceHidingInChats">In Chats</string>
     <string name="OEAppearanceHidingAiPremium">AI and Premium</string>
     <string name="OEKillApp">Close App</string>
+    <string name="OEStartupFolder">Pasta da inicialização</string>
+    <string name="OEStartupFolderFirst">Primeira pasta</string>
+    <string name="OEStartupFolderLast">Último Aberto</string>
+    <string name="OEStartupFolderOpen">Abrir na Inicialização</string>
+    <string name="OEStartupFolderDontOpen">Não abrir na inicialização</string>
+    <string name="OEStartupFolderSet">**%1$s** abrirá na inicialização</string>
+    <string name="OEStartupFolderReset">A primeira pasta será aberta na inicialização</string>
 </resources>
