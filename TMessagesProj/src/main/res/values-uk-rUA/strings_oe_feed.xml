@@ -22,4 +22,22 @@
     <string name="FeedAddNewChannels">Add New Channels</string>
     <string name="FeedAddNewChannelsOnInfo">New channels you follow appear in the feed automatically.</string>
     <string name="FeedAddNewChannelsOffInfo">New channels stay hidden until you check them below.</string>
+    <string name="FeedCategories">Категорії</string>
+    <string name="FeedCategoriesInfo">Категорії з’являються як вкладки зверху стрічки. Перетягніть для зміни порядку, натисніть око, щоб приховати вкладку.</string>
+    <string name="FeedCategoryAddChannels">Додати канали</string>
+    <string name="FeedCategoryChannelsInfo">Повідомлення від вибраних каналів з\'являється, коли ця категорія відкрита, навіть якщо канал прихований від усіх. Канал може бути в декількох категоріях.</string>
+    <string name="FeedCategoryCreate">Створити категорію</string>
+    <string name="FeedCategoryDelete">Видалити категорію</string>
+    <string name="FeedCategoryDeleteConfirm">Видалити категорію **%1$s**? Її канали будуть у стрічці.</string>
+    <string name="FeedCategoryEdit">Змінити категорію</string>
+    <string name="FeedCategoryEmpty">Немає каналів у цій категорії.</string>
+    <string name="FeedCategoryEmptyInfo">Додайте канали до нього, і їхні повідомлення з\'являться тут.</string>
+    <string name="FeedCategoryHiddenInfo">**%1$s** приховано. Ви можете показати його знову у налаштуваннях стрічки.</string>
+    <string name="FeedCategoryHide">Приховати категорію</string>
+    <string name="FeedCategoryName">Назва</string>
+    <string name="FeedCategoryNew">Нова категорія</string>
+    <string name="FeedCategoryShow">Показати категорію</string>
+    <string name="FeedCategoryUnsavedChanges">Ви відредагували цю категорію. Зберегти зміни?</string>
+    <string name="FeedHiddenFromAll">Приховано з усіх</string>
+    <string name="FeedAllChannelsExcludedInfo">Приховані канали все ще з\'являються у своїх категоріях.</string>
 </resources>
