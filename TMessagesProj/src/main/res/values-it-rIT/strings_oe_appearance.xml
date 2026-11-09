@@ -136,4 +136,11 @@
     <string name="OEAppearanceHidingInChats">In Chats</string>
     <string name="OEAppearanceHidingAiPremium">AI and Premium</string>
     <string name="OEKillApp">Close App</string>
+    <string name="OEStartupFolder">Cartella Di Avvio</string>
+    <string name="OEStartupFolderFirst">Prima Cartella</string>
+    <string name="OEStartupFolderLast">Ultima Apertura</string>
+    <string name="OEStartupFolderOpen">Apri all\'avvio</string>
+    <string name="OEStartupFolderDontOpen">Non aprire all\'avvio</string>
+    <string name="OEStartupFolderSet">**%1$s** si aprirà all\'avvio</string>
+    <string name="OEStartupFolderReset">La prima cartella si aprirà all\'avvio</string>
 </resources>
