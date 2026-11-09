@@ -136,4 +136,11 @@
     <string name="OEAppearanceHidingInChats">In Chats</string>
     <string name="OEAppearanceHidingAiPremium">AI and Premium</string>
     <string name="OEKillApp">Close App</string>
+    <string name="OEStartupFolder">起動フォルダ</string>
+    <string name="OEStartupFolderFirst">最初のフォルダ</string>
+    <string name="OEStartupFolderLast">最後に開いた</string>
+    <string name="OEStartupFolderOpen">起動時に開く</string>
+    <string name="OEStartupFolderDontOpen">起動時に開かない</string>
+    <string name="OEStartupFolderSet">**%1$s**は起動時に開きます</string>
+    <string name="OEStartupFolderReset">起動時に最初のフォルダが開きます</string>
 </resources>
