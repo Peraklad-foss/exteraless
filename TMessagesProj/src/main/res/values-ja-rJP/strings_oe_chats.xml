@@ -145,8 +145,28 @@
     <string name="OEChatsTranslateInSheetInfo">Translate opens the sheet from the official app with a provider switch</string>
     <string name="OEChatsInlineMath">Inline math results</string>
     <string name="OEChatsInlineMathInfo">Type an expression and “=” to see the result, press Space to insert it.</string>
-    <string name="OEChatsInlineMathCurrency">Currencies via @calcmulabot</string>
-    <string name="OEChatsInlineMathCurrencyInfo">Expressions with currencies like “10 usd to rub =” are sent to @calcmulabot to get the rate.</string>
+    <string name="OEChatsInlineMathCurrency">\@calcmulabot を介したその他の通貨</string>
+    <string name="OEChatsInlineMathCurrencyInfo">一般的な通貨はこの端末で変換されます。「10 sek to ruk =」のように、残りの部分を含む表現は@calcmulabotに送信されます。</string>
+    <string name="OEInlineTitle">インラインの結果</string>
+    <string name="OEInlineTitleInfo">Calculator, currencies, units and time zone</string>
+    <string name="OEInlineShow">結果を表示</string>
+    <string name="OEInlineFeatures">特徴</string>
+    <string name="OEInlineCalculator">Calculator</string>
+    <string name="OEInlineCurrencies">通貨</string>
+    <string name="OEInlineUnits">単位</string>
+    <string name="OEInlineTimeZones">タイムゾーン</string>
+    <string name="OEInlineGrouping">グループの数字</string>
+    <string name="OEInlineAngle">罪の中の角度 , cos, tan</string>
+    <string name="OEInlineAngleDegrees">度</string>
+    <string name="OEInlineAngleRadians">ラジアン</string>
+    <string name="OEInlineMeasure">計測システム</string>
+    <string name="OEInlineMeasureMetric">メトリック</string>
+    <string name="OEInlineMeasureImperial">Imperial</string>
+    <string name="OEInlineTargetCurrency">デフォルトの通貨</string>
+    <string name="OEInlineAuto">自動</string>
+    <string name="OEInlineDocArithmetic">算術と関数</string>
+    <string name="OEInlineDocPercent">パーセンテージと短縮値</string>
+    <string name="OEInlineTapToCopy">コピーするには、例をタップします。</string>
     <string name="OEChatsInlineMathAnnouncement">Result: %1$s</string>
     <string name="OELocalPremiumInfo">Premium emoji are sent as links that exteraless and other clients that support this show as the real emoji. Other Premium features work only on this device.</string>
     <string name="OELocalPremiumEmojiHint">You don\'t have **Telegram Premium**, so this emoji is sent as a link: only users of **exteraless** and clients that support this will see it.</string>

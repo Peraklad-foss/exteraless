@@ -145,8 +145,28 @@
     <string name="OEChatsTranslateInSheetInfo">Translate opens the sheet from the official app with a provider switch</string>
     <string name="OEChatsInlineMath">Inline math results</string>
     <string name="OEChatsInlineMathInfo">Type an expression and “=” to see the result, press Space to insert it.</string>
-    <string name="OEChatsInlineMathCurrency">Currencies via @calcmulabot</string>
-    <string name="OEChatsInlineMathCurrencyInfo">Expressions with currencies like “10 usd to rub =” are sent to @calcmulabot to get the rate.</string>
+    <string name="OEChatsInlineMathCurrency">Іншыя валюты праз @calcmulabot</string>
+    <string name="OEChatsInlineMathCurrencyInfo">Агульныя валюты пераўтвараюцца на гэтай прыладзе. Выразы з астатнімі, напрыклад «10 sek у rub =», адпраўляюцца @calcmulabot.</string>
+    <string name="OEInlineTitle">Убудаваныя вынікі</string>
+    <string name="OEInlineTitleInfo">Калькулятар, валюты, адзінкі і часавыя зоны</string>
+    <string name="OEInlineShow">Паказваць вынікі</string>
+    <string name="OEInlineFeatures">Функцыі</string>
+    <string name="OEInlineCalculator">Калькулятар</string>
+    <string name="OEInlineCurrencies">Валюты</string>
+    <string name="OEInlineUnits">Адзінкі</string>
+    <string name="OEInlineTimeZones">Часавыя зоны</string>
+    <string name="OEInlineGrouping">Групавыя лічбы</string>
+    <string name="OEInlineAngle">Куты ў sin, cos, tan</string>
+    <string name="OEInlineAngleDegrees">Градусы</string>
+    <string name="OEInlineAngleRadians">Радыяны</string>
+    <string name="OEInlineMeasure">Сістэма вымярэння</string>
+    <string name="OEInlineMeasureMetric">Метрычная</string>
+    <string name="OEInlineMeasureImperial">Імперская</string>
+    <string name="OEInlineTargetCurrency">Валюта па змаўчанні</string>
+    <string name="OEInlineAuto">Аўта</string>
+    <string name="OEInlineDocArithmetic">Арыфметыка і функцыі</string>
+    <string name="OEInlineDocPercent">Працэнты і скарачэнні</string>
+    <string name="OEInlineTapToCopy">Націсніце на прыклад, каб скапіяваць яго.</string>
     <string name="OEChatsInlineMathAnnouncement">Result: %1$s</string>
     <string name="OELocalPremiumInfo">Premium emoji are sent as links that exteraless and other clients that support this show as the real emoji. Other Premium features work only on this device.</string>
     <string name="OELocalPremiumEmojiHint">You don\'t have **Telegram Premium**, so this emoji is sent as a link: only users of **exteraless** and clients that support this will see it.</string>

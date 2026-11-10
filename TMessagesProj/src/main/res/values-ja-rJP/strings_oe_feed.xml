@@ -22,4 +22,22 @@
     <string name="FeedAddNewChannels">Add New Channels</string>
     <string name="FeedAddNewChannelsOnInfo">New channels you follow appear in the feed automatically.</string>
     <string name="FeedAddNewChannelsOffInfo">New channels stay hidden until you check them below.</string>
+    <string name="FeedCategories">カテゴリ</string>
+    <string name="FeedCategoriesInfo">カテゴリはフィードの上部にタブとして表示されます。ドラッグして並べ替えるには、目をタップしてタブを非表示にします。</string>
+    <string name="FeedCategoryAddChannels">チャンネルを追加</string>
+    <string name="FeedCategoryChannelsInfo">選択したチャンネルからの投稿は、チャンネルがすべてに表示されない場合でも、このカテゴリが開いているときに表示されます。 チャンネルにはいくつかのカテゴリがあります。</string>
+    <string name="FeedCategoryCreate">カテゴリを作成</string>
+    <string name="FeedCategoryDelete">カテゴリを削除</string>
+    <string name="FeedCategoryDeleteConfirm">カテゴリ**%1$s**を削除しますか？そのチャンネルはフィード内にとどまります。</string>
+    <string name="FeedCategoryEdit">カテゴリの編集</string>
+    <string name="FeedCategoryEmpty">このカテゴリにはチャンネルがありません。</string>
+    <string name="FeedCategoryEmptyInfo">チャンネルを追加すると、その投稿がここに表示されます。</string>
+    <string name="FeedCategoryHiddenInfo">**%1$s** は非表示です。フィード設定で再表示できます。</string>
+    <string name="FeedCategoryHide">カテゴリを隠す</string>
+    <string name="FeedCategoryName">カテゴリ名</string>
+    <string name="FeedCategoryNew">新しいカテゴリ</string>
+    <string name="FeedCategoryShow">カテゴリを表示</string>
+    <string name="FeedCategoryUnsavedChanges">このカテゴリを編集しました。変更を保存しますか？</string>
+    <string name="FeedHiddenFromAll">すべてから非表示にする</string>
+    <string name="FeedAllChannelsExcludedInfo">隠されたチャンネルはまだカテゴリに表示されます。</string>
 </resources>

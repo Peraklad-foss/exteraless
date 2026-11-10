@@ -15,7 +15,7 @@
     <string name="OEPlayerClassic">Classic player</string>
     <string name="OEPlayerPlaybackOrder">Playback order</string>
     <string name="OEPlayerNoLyricsTitle">No lyrics in the file</string>
-    <string name="OEPlayerNoLyricsText">You can search LRCLIB and lrcmux for lyrics. The track name will be sent over the internet.</string>
+    <string name="OEPlayerNoLyricsText">LRCLIB、lrcmux、より良い歌詞、Paxsenix、Binimum、LyricsPlusで歌詞を検索できます。 トラック名はこれらのサービスとApple Music検索に送信されます。</string>
     <string name="OEPlayerFindLyrics">Search online</string>
     <string name="OEPlayerLyricsSearching">Searching for lyrics…</string>
     <string name="OEPlayerLyricsNotFound">Lyrics not found</string>

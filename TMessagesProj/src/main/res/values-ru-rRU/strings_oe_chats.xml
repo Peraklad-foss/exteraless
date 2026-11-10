@@ -146,26 +146,26 @@
     <string name="OEChatsInlineMath">Калькулятор в поле ввода</string>
     <string name="OEChatsInlineMathInfo">Наберите выражение и «=», чтобы увидеть результат, пробел вставит его.</string>
     <string name="OEChatsInlineMathCurrency">Другие валюты через @calcmulabot</string>
-    <string name="OEChatsInlineMathCurrencyInfo">Популярные валюты считаются на устройстве. Выражения с остальными, например «10 sek to rub =», отправляются боту @calcmulabot.</string>
-    <string name="OEInlineTitle">Результаты вычислений</string>
+    <string name="OEChatsInlineMathCurrencyInfo">Обычные валюты конвертируются на этом устройстве. Выражения со всеми типами «10 сек в руб =», отправляются на @calcmulabot.</string>
+    <string name="OEInlineTitle">Встроенные результаты</string>
     <string name="OEInlineTitleInfo">Калькулятор, валюты, единицы и часовые пояса</string>
-    <string name="OEInlineShow">Показывать результат</string>
-    <string name="OEInlineFeatures">Функции</string>
+    <string name="OEInlineShow">Показать результаты</string>
+    <string name="OEInlineFeatures">Возможности</string>
     <string name="OEInlineCalculator">Калькулятор</string>
     <string name="OEInlineCurrencies">Валюты</string>
     <string name="OEInlineUnits">Единицы измерения</string>
-    <string name="OEInlineTimeZones">Часовые пояса</string>
-    <string name="OEInlineGrouping">Разделять разряды</string>
-    <string name="OEInlineAngle">Углы в sin, cos, tan</string>
+    <string name="OEInlineTimeZones">Часовые зоны</string>
+    <string name="OEInlineGrouping">Цифры группы</string>
+    <string name="OEInlineAngle">Углы в грехе, кости, загар</string>
     <string name="OEInlineAngleDegrees">Градусы</string>
     <string name="OEInlineAngleRadians">Радианы</string>
-    <string name="OEInlineMeasure">Система мер</string>
-    <string name="OEInlineMeasureMetric">Метрическая</string>
+    <string name="OEInlineMeasure">Система измерения</string>
+    <string name="OEInlineMeasureMetric">Метрика</string>
     <string name="OEInlineMeasureImperial">Имперская</string>
     <string name="OEInlineTargetCurrency">Валюта по умолчанию</string>
     <string name="OEInlineAuto">Авто</string>
     <string name="OEInlineDocArithmetic">Арифметика и функции</string>
-    <string name="OEInlineDocPercent">Проценты и сокращения</string>
+    <string name="OEInlineDocPercent">Проценты и короткие сроки</string>
     <string name="OEInlineTapToCopy">Нажмите на пример, чтобы скопировать его.</string>
     <string name="OEChatsInlineMathAnnouncement">Результат: %1$s</string>
     <string name="OELocalPremiumInfo">Премиум-эмодзи уходят ссылками, которые exteraless и поддерживающие это клиенты показывают как настоящие эмодзи. Остальные функции Premium работают только на этом устройстве.</string>
